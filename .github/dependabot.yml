@@ -8,6 +8,7 @@ updates:
     reviewers:
       - "waja"
       - "iwyg"
+      - "florivdg"
     pull-request-branch-name:
       separator: "-"
     open-pull-requests-limit: 10
@@ -16,6 +17,7 @@ updates:
     reviewers:
       - "waja"
       - "iwyg"
+      - "florivdg"
     schedule:
       interval: daily
       time: "04:00"
