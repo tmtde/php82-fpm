@@ -1,6 +1,6 @@
 # checkov:skip=CKV_DOCKER_2: no healthcheck (yet)
 # checkov:skip=CKV_DOCKER_3: no user (yet)
-FROM php:8.2.30-fpm-alpine@sha256:6363baa3186e5bd43794c9612f8a34fb88657179de3da3ebc37b8618ba7bfffc
+FROM php:8.2.30-fpm-alpine@sha256:07c16a3949c2102a1351bb3fab79aa36e97f36301ddd60c275a9d004ef68e43e
 
 ARG BUILD_DATE
 ARG BUILD_VERSION
